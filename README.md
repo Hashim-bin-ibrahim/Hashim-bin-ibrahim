@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif)](https://rishavchanda.io)
+![MasterHead](https://www.servermania.com/kb/wp-content/uploads/2022/04/KB-MERN-Featured.jpg)
 <h1 align="center">Hi 👋, I'm Hashim AM</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
